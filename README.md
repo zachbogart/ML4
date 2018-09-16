@@ -2,7 +2,7 @@
 
 This is code and text behind the [ML4]() resource. 
 
-![Logo]()
+![Logo](https://github.com/zachbogart/ML4)
 
 ## I wanna help!
 
