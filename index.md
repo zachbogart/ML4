@@ -16,14 +16,17 @@ description: "ML4 is for learning ML"
 
 ## *ML4* is for learning ML
 
+*ML4* is a collection of resources to help you learn about machine learning. I made this as a way to collect resources I have used into one place. I hope you find them useful.
+
+To put it simply, ***ML4* is for learning ML.**
+
 ## Help improve *ML4*
 
-Not finding what you are looking for? Have a great resource I should add? Consider helping improve *ML4* by submitting a pull request to the [github page](){target="_blank"}. Don't understand that last sentence? There's a [page on how you can contribute to *ML4*](contribute.html).
+Not finding what you are looking for? Have a great resource I should add? Consider helping improve *ML4* by submitting a pull request to the [github page](https://github.com/zachbogart/ML4){target="_blank"}. Don't understand that last sentence? There's a [page on how you can contribute to *ML4*](contribute.html).
 
 ## Merch
 
-ML4 merch is available on [our Teespring Shop](https://teespring.com/stores/ml4){target="_blank"}. Hope you enjoy and thanks for supporting *ML4*.
-
+Want to show off your love of *ML4*? *ML4* merch is available on [Teespring](https://teespring.com/stores/ml4){target="_blank"}. Hope you enjoy and thanks for supporting *ML4*.
 
 <!-- Contact -->
 ## Contact
