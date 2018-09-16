@@ -6,7 +6,7 @@ This is code and text behind the [ML4](https://zachbogart.com/ML4/) resource.
 
 ## I wanna help!
 
-Visit [our contribute page](http://edav.info/contribute.html) to learn more about how you can contribute to *ML4*.
+Visit [our contribute page](https://zachbogart.com/ML4/contribute.html) to learn more about how you can contribute to *ML4*.
 
 ## Contact
 
