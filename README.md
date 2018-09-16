@@ -2,7 +2,7 @@
 
 This is code and text behind the [ML4](https://zachbogart.com/ML4/) resource. 
 
-![Logo](https://github.com/zachbogart/ML4)
+![Logo](https://zachbogart.com/ML4/images/cover.png)
 
 ## I wanna help!
 
