@@ -8,7 +8,7 @@ documentclass: book
 #biblio-style: apalike
 link-citations: yes
 github-repo: "zachbogart/ML4"
-url: ''
+url: 'https://zachbogart.com/ML4/'
 #description: add desc for bookdown.org
 #cover-image: "images/cover.png"
 ---
