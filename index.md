@@ -1,31 +1,29 @@
 --- 
 title: "ML4"
 author: "Zach Bogart"
-date: ''
+date: '2018-09-16'
 site: bookdown::bookdown_site
 documentclass: book
 #bibliography: [book.bib]
 #biblio-style: apalike
 link-citations: yes
-github-repo: ""
-url: ''
+github-repo: "zachbogart/ML4"
+url: 'https://zachbogart.com/ML4/'
 #description: add desc for bookdown.org
-cover-image: "images/cover.png"
+#cover-image: "images/cover.png"
 ---
 
 # Introduction {-}
 
-## Everything you need to learn ML
-
-## How this resource is structured
+## *ML4* is for learning ML
 
 ## Help improve *ML4*
 
 Not finding what you are looking for? Think a section could be made clearer? Consider helping improve *ML4* by submitting a pull request to the [github page](){target="_blank"}. Don't understand that last sentence? We have a [page on how you can contribute to *ML4*](contribute.html).
 
-## Fun stuff
+## Merch
 
-### T-shirts
+ML4 merch is available on [our Teespring Shop](https://teespring.com/stores/ml4){target="_blank"}. Hope you enjoy and thanks for supporting *ML4*.
 
 
 <!-- Contact -->
