@@ -8,11 +8,11 @@ I don't want *ML4* to be just another resource. Rather, I want it to be *your* r
 
 There are **three main ways** to contribute: 
 
-- <i class="fas fa-edit"></i> For **simple changes** <i class="fas fa-arrow-right"></i> [**contribute directly**](https://edav.info/contribute.html#contribute-directly){target="_blank"} (I got a full walkthrough on how to do this over on another resource I made called [edav.info/](https://edav.info/){target="_blank"})
+- <i class="fas fa-edit"></i> For **simple changes** <i class="fas fa-arrow-right"></i> **contribute directly** (Click <i class="fas fa-edit"></i> at the top of any page to get started; just tap & type)
 - <i class="fas fa-sticky-note"></i> For **bigger/more abstract suggestions** <i class="fas fa-arrow-right"></i> [**submit an issue**](https://github.com/zachbogart/ML4/issues/new){target="_blank"} (very simple, much appreciated)
 - <i class="fas fa-code-branch"></i> For **adventurous/social GitHub users** <i class="fas fa-arrow-right"></i> [**solve an open issue**](https://github.com/zachbogart/ML4/issues){target="_blank"} (more advanced/open-ended, also much appreciated)
 
-For more info on how to contribute to a project like this, there's [a much more thorough contribute page](https://edav.info/contribute.html){target="_blank"} on another resourse I made called [edav.info/](https://edav.info/){target="_blank"}.
+For more info on how to contribute to a project like this, there's [a much more thorough contribute page](https://edav.info/contribute.html){target="_blank"} on another resource I made called [edav.info/](https://edav.info/){target="_blank"}.
 
 Thanks for helping improve *ML4*. 
 

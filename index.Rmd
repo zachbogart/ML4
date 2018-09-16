@@ -17,7 +17,7 @@ cover: "images/cover.png"
 
 ## *ML4* is for learning ML
 
-*ML4* is a collection of resources to help you learn about machine learning. I made this as a way to collect resources I have used into one place. I hope you find them useful.
+*ML4* is a collection of resources to help you learn about machine learning. It includes everything from textbooks on theory to links to cool demos. I made this so I could have my own go-to list of great ML resources. I hope you find it useful.
 
 To put it simply, ***ML4* is for learning ML.**
 
