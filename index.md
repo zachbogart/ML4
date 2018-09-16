@@ -18,7 +18,7 @@ description: "ML4 is for learning ML"
 
 ## Help improve *ML4*
 
-Not finding what you are looking for? Think a section could be made clearer? Consider helping improve *ML4* by submitting a pull request to the [github page](){target="_blank"}. Don't understand that last sentence? We have a [page on how you can contribute to *ML4*](contribute.html).
+Not finding what you are looking for? Have a great resource I should add? Consider helping improve *ML4* by submitting a pull request to the [github page](){target="_blank"}. Don't understand that last sentence? There's a [page on how you can contribute to *ML4*](contribute.html).
 
 ## Merch
 
