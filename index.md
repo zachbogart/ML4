@@ -10,6 +10,7 @@ link-citations: yes
 github-repo: "zachbogart/ML4"
 url: 'https://zachbogart.com/ML4/'
 description: "ML4 is for learning ML"
+cover: "images/cover.png"
 ---
 
 # Introduction {-}
