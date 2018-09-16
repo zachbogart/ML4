@@ -10,7 +10,7 @@ bookdown::gitbook:
     
   config:
     toc:
-      collapse: section
+      collapse: subsection
       before: |
         <li><a href="index.html"><b>ML4</b></a></li>
       after: |
