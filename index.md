@@ -9,8 +9,7 @@ documentclass: book
 link-citations: yes
 github-repo: "zachbogart/ML4"
 url: 'https://zachbogart.com/ML4/'
-#description: add desc for bookdown.org
-#cover-image: "images/cover.png"
+description: "ML4 is for learning ML"
 ---
 
 # Introduction {-}
