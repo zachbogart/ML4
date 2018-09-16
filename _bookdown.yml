@@ -1,0 +1,14 @@
+book_filename: "ML4"
+chapter_name: ""
+repo: https://github.com/zachbogart/ML4
+output_dir: _book
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
+edit: https://github.com/zachbogart/ML4/edit/master/%s
+
+# chapter ordering
+rmd_files: [
+  "index.Rmd", 
+  "contribute.Rmd"
+]
+
