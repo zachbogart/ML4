@@ -9,7 +9,11 @@ edit: https://github.com/zachbogart/ML4/edit/master/%s
 # chapter ordering
 rmd_files: [
   "index.Rmd", 
-  "resources.Rmd",
+  
+  "read.Rmd",
+  "watch.Rmd",
+  "code.Rmd",
+  
   "contribute.Rmd"
 ]
 

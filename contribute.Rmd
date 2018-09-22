@@ -1,5 +1,7 @@
 # Contribute to this Resource {#contribute}
 
+![](images/banners/contribute_banner.png)
+
 ## Why contribute?
 
 I don't want *ML4* to be just another resource. Rather, I want it to be *your* resource. If there are things that trip you up or cause you frustration, chances are you're not alone. Everyone comes to this resource with different backgrounds and expertise. Being able to collect all that knowledge in one place is this resource's mission and you can help move that mission forward.
