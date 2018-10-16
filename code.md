@@ -13,6 +13,9 @@
 - [TensorFlow For Poets | Google Codelabs](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0){target="_blank"}
 - [DataCamp](https://www.datacamp.com/){target="_blank"}
 
+## Reference
+- [Python String Format Cookbook](https://mkaz.blog/code/python-string-format-cookbook/){target="_blank"}: I'm a big fan of pretty print statements, but I often forget how to format the output to my liking. So this [mkaz.blog](https://mkaz.blog/about/){target="_blank"} post is a good thing to have on hand.
+
 
 
 
