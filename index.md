@@ -1,7 +1,7 @@
 --- 
 title: "ML4"
 author: "Zach Bogart"
-date: "2018-10-16"
+date: "2019-06-06"
 site: bookdown::bookdown_site
 documentclass: book
 #bibliography: [book.bib]

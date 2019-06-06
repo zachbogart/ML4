@@ -37,6 +37,9 @@
 - [Scikit-Learn](http://scikit-learn.org/stable/){target="_blank"}
 - [TensorFlow JS](https://js.tensorflow.org/){target="_blank"}
 
+## Data Viz
+- [dataviz.tools](https://dataviz.tools/){target="_blank"}
+
 ## Other Resource Collections like ML4
 - [Machine Learning Resources](https://gist.github.com/jcowles/87b25dc3252f265ec6c854072c941ce2){target="_blank"}: from [Jeremy Cowles](https://twitter.com/MoldyMagnet){target="_blank"}
 
